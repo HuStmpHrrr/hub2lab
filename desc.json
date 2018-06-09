@@ -1,0 +1,13 @@
+{
+    "hub-header" : "git@github.com:HuStmpHrrr/{}.git",
+    "lab-url" : "https://gitlab.com/JasonHuZS/{}",
+    "projects" : ["aircraft",
+                  "agda-substructural",
+                  "Tlib",
+                  "PFDSPractise",
+                  "my-vimconfig",
+                  "copterlab",
+                  "agda-lib-config",
+                  "agda-category",
+                  "Hackrank-challenges"]
+}
